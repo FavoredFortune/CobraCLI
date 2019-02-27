@@ -8,3 +8,12 @@ to learn more about building a CLI using the Cobra Go library: https://github.co
 ## Resources
 - Help from Troy Dai
 - Example from https://github.com/dharmeshkakadia/cobra-example
+
+
+## Instructions to run this application
+
+- Download the `hello-cli` file
+- From the folder where the new `hello-cli` file lives, type `./hello-cli` in the terminal to see all available commands
+- To use the `hello` command type `./hello-cli hello` in the terminal command line
+
+- To use the `bye` command type `./hello-cli bye` in the terminal command line

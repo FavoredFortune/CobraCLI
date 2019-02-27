@@ -25,7 +25,7 @@ var helloCmd = &cobra.Command{
 	Short: "says hello",
 	Long: `creating a sub command that says hello`,
 	Run: func(cmd *cobra.Command, args []string) {
-		fmt.Println("This calls the hello command")
+		fmt.Println("This calls the hello subcommand")
 	},
 }
 
